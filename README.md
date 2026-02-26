@@ -1,4 +1,4 @@
-Este projeto consiste em uma API REST simples, desenvolvida em Node.js com Express, com o objetivo de aprender os conceitos básicos de Serviços na Web, APIs REST, métodos HTTP e troca de dados no formato JSON.
+Este projeto consiste em uma API REST simples, vista na matéria de Arquitetura Client-Side. Desenvolvido em Node.js com Express, com o objetivo de aprender os conceitos básicos de Serviços na Web, APIs REST, métodos HTTP e troca de dados no formato JSON.
 A API permite realizar operações básicas de CRUD (Create, Read, Update e Delete) sobre um recurso chamado Produtos.
 
 **Como rodar o projeto**
