@@ -5,7 +5,7 @@ A API permite realizar operações básicas de CRUD (Create, Read, Update e Dele
 
 Pré-requisitos:
 
-- Ter o Node.js instalado
+- Ter o Node.js instalado - 
   Verifique com:
   node -v
   npm -v
